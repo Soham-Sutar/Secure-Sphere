@@ -1,7 +1,12 @@
 # 🔐 Cybersecurity Tool Suite
 
 An integrated cybersecurity platform built to enhance user safety and awareness online. This suite combines three essential tools — secure email authentication, an AI-powered cybersecurity assistant, and a phishing website detector — into one unified environment.
-
+<p align="center">
+  <img src="https://img.shields.io/badge/Cybersecurity-Project-blue?style=for-the-badge&logo=hackthebox&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flask-Backend-black?style=for-the-badge&logo=flask"/>
+  <img src="https://img.shields.io/badge/Machine%20Learning-Phishing%20Detection-orange?style=for-the-badge&logo=scikitlearn"/>
+  <img src="https://img.shields.io/badge/AI-Gemini%20API-purple?style=for-the-badge&logo=google"/>
+</p>
 ## 🧠 Project Overview
 
 This project was created to address key areas in cybersecurity through simple, effective tools:
